@@ -1,5 +1,21 @@
 body{
     font-size: "Arial";
-    text-align: center;
-    color: deeppink;
+    text-align: left;
+    color: rgb(255, 161, 20);
+    align-items: center;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+ 
+#container h1
+{
+    font-size: 40px;
+
+
 }
