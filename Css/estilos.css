@@ -3,6 +3,7 @@ body{
     text-align: left;
     color: rgb(255, 161, 20);
     align-items: center;
+    background-color: brown;
 }
 #container
 {
@@ -17,5 +18,7 @@ body{
 {
     font-size: 40px;
 
-
+}
+#cabecera{
+    color: white;
 }
