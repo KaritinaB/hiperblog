@@ -1,8 +1,9 @@
 body{
-    font-size: "Arial";
+    font-size: 20px;
     text-align: left;
     color: rgb(255, 161, 20);
     align-items: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 #container
 {
