@@ -1,9 +1,9 @@
 body{
     font-size: "Arial";
     text-align: left;
-    color: rgb(255, 161, 20);
+    color: #055052;
     align-items: center;
-    background-color: brown;
+    background-color: #D9CAB3;
 }
 #container
 {
@@ -20,5 +20,18 @@ body{
 
 }
 #cabecera{
+    background: #986D8E;
+    box-shadow: 0opx 2px 20px 0px rgba(0,0,0, 0.5);
     color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
+ 
+#cabecera #tagline
+{
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
 }
